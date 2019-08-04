@@ -11,10 +11,12 @@ https://qiita.com/kamykn/items/371cba5487d3c7cea8aa
   - npm 6.10.2
   - wasm-pack
   - cargo-generate
-- [ ] Clone the Project Template
-- [ ] What's Inside
-- [ ] Build the Project
-- [ ] Putting it into a Web Page
+- [x] Clone the Project Template
+  - 元資料通りにやるとディレクトリルートではなく新しくディレクトリに作られるのでちょっと注意
+- [x] What's Inside
+- [x] Build the Project
+  - ビルドは問題なく通る
+- [ ] Putting it into a Web Pages
 - [ ] Install the dependencies
 - [ ] Using our Local wasm-game-of-life Package in www
 - [ ] Serving Locally
