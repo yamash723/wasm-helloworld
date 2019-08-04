@@ -22,7 +22,7 @@ https://qiita.com/kamykn/items/371cba5487d3c7cea8aa
 - [x] Using our Local wasm-game-of-life Package in www
   - `npm link` をよく理解していないので後で理解する必要あり
 - [x] Serving Locally
-- [ ] Exercises
+- [x] Exercises
 
 ## Issues
 
