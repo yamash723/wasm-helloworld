@@ -19,6 +19,11 @@ https://qiita.com/kamykn/items/371cba5487d3c7cea8aa
 - [x] Putting it into a Web Pages
   - 中身は特に普通のHTML/JS郡
 - [x] Install the dependencies
-- [ ] Using our Local wasm-game-of-life Package in www
-- [ ] Serving Locally
+- [x] Using our Local wasm-game-of-life Package in www
+  - `npm link` をよく理解していないので後で理解する必要あり
+- [x] Serving Locally
 - [ ] Exercises
+
+## Issues
+
+- `npm link` の理解をする
