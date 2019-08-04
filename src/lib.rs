@@ -14,6 +14,10 @@ extern {
 }
 
 #[wasm_bindgen]
-pub fn greet(name: &str) {
-    alert(&format!("Hello, {}", name));
+pub fn calc_fibonacci(n: u64) -> u64 {
+    if n <= 1u64 {
+        n
+    } else {
+        calc_fibonacci(n - 1u64) + calc_fibonacci(n - 2u64)
+    }
 }
